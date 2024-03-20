@@ -1,0 +1,1 @@
+/data/adb/modules/Automatic_brick_rescue/白名单.conf
